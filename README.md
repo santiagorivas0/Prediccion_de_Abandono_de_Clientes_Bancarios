@@ -2,7 +2,7 @@
 
 ## PROBLEMA EMPRESARIAL
 
-En nuestro banco se han detectado abandonos sin un motivo a simple vista obvio. El abandono implica una perdida una pérdida de dinero, que puede poner en riesgo la continuidad del negocio. Debido a esto, es extremadamente necesario agregarle inteligencia a nuestro negocio, prediciendo los perfiles de clientes con más probabilidades de abandonar sus créditos, para poder reducir el riesgo eminente de tener una perdida lo suficientemente significativa que impida la continuidad del banco.
+En nuestro banco se han detectado abandonos sin un motivo a simple vista. El abandono implica una perdida una pérdida de dinero, que puede poner en riesgo la continuidad del negocio. Debido a esto, es extremadamente necesario agregarle inteligencia a nuestro negocio, prediciendo los perfiles de clientes con más probabilidades de abandonar sus créditos, para poder reducir el riesgo eminente de tener una perdida lo suficientemente significativa que impida la continuidad del banco.
 Además de reducir el riego de incumplimiento de crédito, podríamos aumentar las ganancias si reconocemos los mejores perfiles de clientes (los que no van a abandonar), dándoles más créditos e iniciando campañas de marketing dirigidas a ellos.
 Algunas preguntas disparadoras que nos surgen y luego vamos a intentar responder son:
 ¿Los clientes con menor salario estimado son los que abandonan más fácil su cuenta bancaria? ¿Los hombres abandonan más fácil que las mujeres?
